@@ -10,6 +10,7 @@ This project analyzes the Calgary HTTP dataset, which contains approximately one
 - **Format:** ASCII text (Apache Common Log Format)  
 - **Size:** ~52 MB (uncompressed)  
 - **Source:** http://ita.ee.lbl.gov/html/contrib/Calgary-HTTP.html  
+- **video:** [https://www.youtube.com/watch?v=urb4_GDpYMk](https://www.youtube.com/watch?v=urb4_GDpYMk)  
 
 Each log entry represents a single HTTP request and includes:
 - Host (request origin)
